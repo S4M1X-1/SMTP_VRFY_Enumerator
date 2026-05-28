@@ -46,7 +46,7 @@ The server may respond:
 
 git clone https://github.com/S4M1X-1/SMTP_VRFY_Enumerator.git  
 cd SMTP_VRFY_Enumerator
-
+chmod =x smtp_users_enum.py
 ---
 
 ## Usage
@@ -112,8 +112,4 @@ This tool is for:
 
 Do NOT use it against systems you don’t own or have permission to test.
 
----
 
-## License
-
-MIT License
