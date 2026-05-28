@@ -45,7 +45,9 @@ The server may respond:
 ## Installation
 
 git clone https://github.com/S4M1X-1/SMTP_VRFY_Enumerator.git  
+
 cd SMTP_VRFY_Enumerator
+
 chmod =x smtp_users_enum.py
 ---
 
